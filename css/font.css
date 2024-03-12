@@ -1,0 +1,42 @@
+/********************* font  *********************/
+
+/* AbhayaLibre */
+
+
+@font-face {
+    font-family:ai-bold ;
+    src: url(../font/AbhayaLibre-Bold.ttf);
+}
+
+
+@font-face {
+    font-family:ai-extra-bold ;
+    src: url(../font/AbhayaLibre-ExtraBold.ttf);
+}
+
+
+@font-face {
+    font-family:ai-regular ;
+    src: url(../font/AbhayaLibre-Regular.ttf);
+}
+
+
+@font-face {
+    font-family:ai-medium ;
+    src: url(../font/AbhayaLibre-Medium.ttf);
+}
+
+
+@font-face {
+    font-family:ai-semibold ;
+    src: url(../font/AbhayaLibre-SemiBold.ttf);
+}
+
+
+/* AbhayaLibre */
+
+/* poppins */
+
+
+/* poppins */
+/********************* font  *********************/
